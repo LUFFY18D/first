@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int a[5] = { 0,1, 2, 3, 4 };
+int a[5] = {0,1, 2, 3, 4};
 
 void backtrack(int i)
 {
