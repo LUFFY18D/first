@@ -32,7 +32,8 @@ void backtrack(int i)
 	}
 }
 
-void main()
+int main()
 {
 	backtrack(0);
+	return 0;
 }
